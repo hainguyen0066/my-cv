@@ -53,7 +53,7 @@ p {
   font-weight: 400;
   font-family: "Source Sans Pro", sans-serif;
   margin: 0px;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 ul, ol {
@@ -64,6 +64,9 @@ ul, ol {
 
 ul li, ol li {
   list-style: none;
+}
+li {
+  font-size: 20px;
 }
 
 .hero-heading {
@@ -225,8 +228,8 @@ button:focus {
   background: #4A9CEC;
 }
 
-.social-icon li .instagram:hover {
-  background: #D6274D;
+.social-icon li .zalo:hover {
+  background: #4A9CEC;
 }
 
 .social-icon li .linkedin:hover {
@@ -407,7 +410,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .timeline li .line-title {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 6px;
 }
 
